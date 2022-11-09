@@ -19,9 +19,7 @@ public class MoveController : ControllerBase  //starting game endpoint
     }
 
 
-    //1.Add and endpoint for Registered a player move ejemplo : Do you want to make a move? or click to make a move
-    // 2.should take player ID and check for success or errors
-    //3. should inform if the move wins the game
+  
 
     //-------------------------------------------
 
