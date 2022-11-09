@@ -1,0 +1,192 @@
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/APITicTacToe/bin/Debug/net6.0/appsettings.Development.json
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/APITicTacToe/bin/Debug/net6.0/appsettings.json
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/APITicTacToe/bin/Debug/net6.0/APITicTacToe
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/APITicTacToe/bin/Debug/net6.0/APITicTacToe.deps.json
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/APITicTacToe/bin/Debug/net6.0/APITicTacToe.runtimeconfig.json
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/APITicTacToe/bin/Debug/net6.0/APITicTacToe.dll
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/APITicTacToe/bin/Debug/net6.0/APITicTacToe.pdb
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/APITicTacToe/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/APITicTacToe/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/APITicTacToe/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/APITicTacToe/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.csproj.AssemblyReference.cache
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.AssemblyInfoInputs.cache
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.AssemblyInfo.cs
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.csproj.CoreCompileInputs.cache
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.MvcApplicationPartsAssemblyInfo.cs
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.MvcApplicationPartsAssemblyInfo.cache
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/APITicTacToe/obj/Debug/net6.0/staticwebassets.build.json
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/APITicTacToe/obj/Debug/net6.0/staticwebassets.development.json
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/APITicTacToe/obj/Debug/net6.0/scopedcss/bundle/APITicTacToe.styles.css
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.csproj.CopyComplete
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.dll
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/APITicTacToe/obj/Debug/net6.0/refint/APITicTacToe.dll
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.pdb
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.genruntimeconfig.cache
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/APITicTacToe/obj/Debug/net6.0/ref/APITicTacToe.dll
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/APITicTacToe/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/APITicTacToe/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/APITicTacToe/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/APITicTacToe/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/APITicTacToe/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/tatiana/Desktop/APITicTacToe copy 2/APITicTacToe/APITicTacToe/bin/Debug/net6.0/appsettings.Development.json
+/Users/tatiana/Desktop/APITicTacToe copy 2/APITicTacToe/APITicTacToe/bin/Debug/net6.0/appsettings.json
+/Users/tatiana/Desktop/APITicTacToe copy 2/APITicTacToe/APITicTacToe/bin/Debug/net6.0/APITicTacToe
+/Users/tatiana/Desktop/APITicTacToe copy 2/APITicTacToe/APITicTacToe/bin/Debug/net6.0/APITicTacToe.deps.json
+/Users/tatiana/Desktop/APITicTacToe copy 2/APITicTacToe/APITicTacToe/bin/Debug/net6.0/APITicTacToe.runtimeconfig.json
+/Users/tatiana/Desktop/APITicTacToe copy 2/APITicTacToe/APITicTacToe/bin/Debug/net6.0/APITicTacToe.dll
+/Users/tatiana/Desktop/APITicTacToe copy 2/APITicTacToe/APITicTacToe/bin/Debug/net6.0/APITicTacToe.pdb
+/Users/tatiana/Desktop/APITicTacToe copy 2/APITicTacToe/APITicTacToe/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/tatiana/Desktop/APITicTacToe copy 2/APITicTacToe/APITicTacToe/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/tatiana/Desktop/APITicTacToe copy 2/APITicTacToe/APITicTacToe/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/tatiana/Desktop/APITicTacToe copy 2/APITicTacToe/APITicTacToe/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/tatiana/Desktop/APITicTacToe copy 2/APITicTacToe/APITicTacToe/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/tatiana/Desktop/APITicTacToe copy 2/APITicTacToe/APITicTacToe/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/tatiana/Desktop/APITicTacToe copy 2/APITicTacToe/APITicTacToe/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/tatiana/Desktop/APITicTacToe copy 2/APITicTacToe/APITicTacToe/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/tatiana/Desktop/APITicTacToe copy 2/APITicTacToe/APITicTacToe/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/tatiana/Desktop/APITicTacToe copy 2/APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.csproj.AssemblyReference.cache
+/Users/tatiana/Desktop/APITicTacToe copy 2/APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tatiana/Desktop/APITicTacToe copy 2/APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.AssemblyInfoInputs.cache
+/Users/tatiana/Desktop/APITicTacToe copy 2/APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.AssemblyInfo.cs
+/Users/tatiana/Desktop/APITicTacToe copy 2/APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.csproj.CoreCompileInputs.cache
+/Users/tatiana/Desktop/APITicTacToe copy 2/APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.MvcApplicationPartsAssemblyInfo.cs
+/Users/tatiana/Desktop/APITicTacToe copy 2/APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.MvcApplicationPartsAssemblyInfo.cache
+/Users/tatiana/Desktop/APITicTacToe copy 2/APITicTacToe/APITicTacToe/obj/Debug/net6.0/staticwebassets.build.json
+/Users/tatiana/Desktop/APITicTacToe copy 2/APITicTacToe/APITicTacToe/obj/Debug/net6.0/staticwebassets.development.json
+/Users/tatiana/Desktop/APITicTacToe copy 2/APITicTacToe/APITicTacToe/obj/Debug/net6.0/scopedcss/bundle/APITicTacToe.styles.css
+/Users/tatiana/Desktop/APITicTacToe copy 2/APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.csproj.CopyComplete
+/Users/tatiana/Desktop/APITicTacToe copy 2/APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.dll
+/Users/tatiana/Desktop/APITicTacToe copy 2/APITicTacToe/APITicTacToe/obj/Debug/net6.0/refint/APITicTacToe.dll
+/Users/tatiana/Desktop/APITicTacToe copy 2/APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.pdb
+/Users/tatiana/Desktop/APITicTacToe copy 2/APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.genruntimeconfig.cache
+/Users/tatiana/Desktop/APITicTacToe copy 2/APITicTacToe/APITicTacToe/obj/Debug/net6.0/ref/APITicTacToe.dll
+/Users/tatiana/Desktop/NewAPITicTacToe /APITicTacToe/APITicTacToe/bin/Debug/net6.0/appsettings.Development.json
+/Users/tatiana/Desktop/NewAPITicTacToe /APITicTacToe/APITicTacToe/bin/Debug/net6.0/appsettings.json
+/Users/tatiana/Desktop/NewAPITicTacToe /APITicTacToe/APITicTacToe/bin/Debug/net6.0/APITicTacToe
+/Users/tatiana/Desktop/NewAPITicTacToe /APITicTacToe/APITicTacToe/bin/Debug/net6.0/APITicTacToe.deps.json
+/Users/tatiana/Desktop/NewAPITicTacToe /APITicTacToe/APITicTacToe/bin/Debug/net6.0/APITicTacToe.runtimeconfig.json
+/Users/tatiana/Desktop/NewAPITicTacToe /APITicTacToe/APITicTacToe/bin/Debug/net6.0/APITicTacToe.dll
+/Users/tatiana/Desktop/NewAPITicTacToe /APITicTacToe/APITicTacToe/bin/Debug/net6.0/APITicTacToe.pdb
+/Users/tatiana/Desktop/NewAPITicTacToe /APITicTacToe/APITicTacToe/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/tatiana/Desktop/NewAPITicTacToe /APITicTacToe/APITicTacToe/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/tatiana/Desktop/NewAPITicTacToe /APITicTacToe/APITicTacToe/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/tatiana/Desktop/NewAPITicTacToe /APITicTacToe/APITicTacToe/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/tatiana/Desktop/NewAPITicTacToe /APITicTacToe/APITicTacToe/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/tatiana/Desktop/NewAPITicTacToe /APITicTacToe/APITicTacToe/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/tatiana/Desktop/NewAPITicTacToe /APITicTacToe/APITicTacToe/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/tatiana/Desktop/NewAPITicTacToe /APITicTacToe/APITicTacToe/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/tatiana/Desktop/NewAPITicTacToe /APITicTacToe/APITicTacToe/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/tatiana/Desktop/NewAPITicTacToe /APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.csproj.AssemblyReference.cache
+/Users/tatiana/Desktop/NewAPITicTacToe /APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tatiana/Desktop/NewAPITicTacToe /APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.AssemblyInfoInputs.cache
+/Users/tatiana/Desktop/NewAPITicTacToe /APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.AssemblyInfo.cs
+/Users/tatiana/Desktop/NewAPITicTacToe /APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.csproj.CoreCompileInputs.cache
+/Users/tatiana/Desktop/NewAPITicTacToe /APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.MvcApplicationPartsAssemblyInfo.cs
+/Users/tatiana/Desktop/NewAPITicTacToe /APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.MvcApplicationPartsAssemblyInfo.cache
+/Users/tatiana/Desktop/NewAPITicTacToe /APITicTacToe/APITicTacToe/obj/Debug/net6.0/staticwebassets.build.json
+/Users/tatiana/Desktop/NewAPITicTacToe /APITicTacToe/APITicTacToe/obj/Debug/net6.0/staticwebassets.development.json
+/Users/tatiana/Desktop/NewAPITicTacToe /APITicTacToe/APITicTacToe/obj/Debug/net6.0/scopedcss/bundle/APITicTacToe.styles.css
+/Users/tatiana/Desktop/NewAPITicTacToe /APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.csproj.CopyComplete
+/Users/tatiana/Desktop/NewAPITicTacToe /APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.dll
+/Users/tatiana/Desktop/NewAPITicTacToe /APITicTacToe/APITicTacToe/obj/Debug/net6.0/refint/APITicTacToe.dll
+/Users/tatiana/Desktop/NewAPITicTacToe /APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.pdb
+/Users/tatiana/Desktop/NewAPITicTacToe /APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.genruntimeconfig.cache
+/Users/tatiana/Desktop/NewAPITicTacToe /APITicTacToe/APITicTacToe/obj/Debug/net6.0/ref/APITicTacToe.dll
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/bin/Debug/net6.0/appsettings.Development.json
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/bin/Debug/net6.0/appsettings.json
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/bin/Debug/net6.0/APITicTacToe
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/bin/Debug/net6.0/APITicTacToe.deps.json
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/bin/Debug/net6.0/APITicTacToe.runtimeconfig.json
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/bin/Debug/net6.0/APITicTacToe.dll
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/bin/Debug/net6.0/APITicTacToe.pdb
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.csproj.AssemblyReference.cache
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.AssemblyInfoInputs.cache
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.AssemblyInfo.cs
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.csproj.CoreCompileInputs.cache
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.MvcApplicationPartsAssemblyInfo.cs
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.MvcApplicationPartsAssemblyInfo.cache
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/obj/Debug/net6.0/staticwebassets.build.json
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/obj/Debug/net6.0/staticwebassets.development.json
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/obj/Debug/net6.0/scopedcss/bundle/APITicTacToe.styles.css
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.csproj.CopyComplete
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.dll
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/obj/Debug/net6.0/refint/APITicTacToe.dll
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.pdb
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.genruntimeconfig.cache
+/Users/tatiana/Desktop/APITicTacToe/APITicTacToe/obj/Debug/net6.0/ref/APITicTacToe.dll
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe/APITicTacToe/bin/Debug/net6.0/appsettings.Development.json
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe/APITicTacToe/bin/Debug/net6.0/appsettings.json
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe/APITicTacToe/bin/Debug/net6.0/APITicTacToe
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe/APITicTacToe/bin/Debug/net6.0/APITicTacToe.deps.json
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe/APITicTacToe/bin/Debug/net6.0/APITicTacToe.runtimeconfig.json
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe/APITicTacToe/bin/Debug/net6.0/APITicTacToe.dll
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe/APITicTacToe/bin/Debug/net6.0/APITicTacToe.pdb
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe/APITicTacToe/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe/APITicTacToe/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe/APITicTacToe/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe/APITicTacToe/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe/APITicTacToe/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe/APITicTacToe/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe/APITicTacToe/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe/APITicTacToe/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe/APITicTacToe/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.csproj.AssemblyReference.cache
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.AssemblyInfoInputs.cache
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.AssemblyInfo.cs
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.csproj.CoreCompileInputs.cache
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.MvcApplicationPartsAssemblyInfo.cs
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.MvcApplicationPartsAssemblyInfo.cache
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe/APITicTacToe/obj/Debug/net6.0/staticwebassets.build.json
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe/APITicTacToe/obj/Debug/net6.0/staticwebassets.development.json
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe/APITicTacToe/obj/Debug/net6.0/scopedcss/bundle/APITicTacToe.styles.css
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.csproj.CopyComplete
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.dll
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe/APITicTacToe/obj/Debug/net6.0/refint/APITicTacToe.dll
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.pdb
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe/APITicTacToe/obj/Debug/net6.0/APITicTacToe.genruntimeconfig.cache
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe/APITicTacToe/obj/Debug/net6.0/ref/APITicTacToe.dll
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe monday copy/APITicTacToe/bin/Debug/net6.0/appsettings.Development.json
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe monday copy/APITicTacToe/bin/Debug/net6.0/appsettings.json
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe monday copy/APITicTacToe/bin/Debug/net6.0/APITicTacToe
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe monday copy/APITicTacToe/bin/Debug/net6.0/APITicTacToe.deps.json
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe monday copy/APITicTacToe/bin/Debug/net6.0/APITicTacToe.runtimeconfig.json
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe monday copy/APITicTacToe/bin/Debug/net6.0/APITicTacToe.dll
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe monday copy/APITicTacToe/bin/Debug/net6.0/APITicTacToe.pdb
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe monday copy/APITicTacToe/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe monday copy/APITicTacToe/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe monday copy/APITicTacToe/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe monday copy/APITicTacToe/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe monday copy/APITicTacToe/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe monday copy/APITicTacToe/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe monday copy/APITicTacToe/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe monday copy/APITicTacToe/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe monday copy/APITicTacToe/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe monday copy/APITicTacToe/obj/Debug/net6.0/APITicTacToe.csproj.AssemblyReference.cache
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe monday copy/APITicTacToe/obj/Debug/net6.0/APITicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe monday copy/APITicTacToe/obj/Debug/net6.0/APITicTacToe.AssemblyInfoInputs.cache
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe monday copy/APITicTacToe/obj/Debug/net6.0/APITicTacToe.AssemblyInfo.cs
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe monday copy/APITicTacToe/obj/Debug/net6.0/APITicTacToe.csproj.CoreCompileInputs.cache
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe monday copy/APITicTacToe/obj/Debug/net6.0/APITicTacToe.MvcApplicationPartsAssemblyInfo.cs
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe monday copy/APITicTacToe/obj/Debug/net6.0/APITicTacToe.MvcApplicationPartsAssemblyInfo.cache
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe monday copy/APITicTacToe/obj/Debug/net6.0/staticwebassets.build.json
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe monday copy/APITicTacToe/obj/Debug/net6.0/staticwebassets.development.json
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe monday copy/APITicTacToe/obj/Debug/net6.0/scopedcss/bundle/APITicTacToe.styles.css
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe monday copy/APITicTacToe/obj/Debug/net6.0/APITicTacToe.csproj.CopyComplete
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe monday copy/APITicTacToe/obj/Debug/net6.0/APITicTacToe.dll
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe monday copy/APITicTacToe/obj/Debug/net6.0/refint/APITicTacToe.dll
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe monday copy/APITicTacToe/obj/Debug/net6.0/APITicTacToe.pdb
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe monday copy/APITicTacToe/obj/Debug/net6.0/APITicTacToe.genruntimeconfig.cache
+/Users/tatiana/Desktop/VisualStudioProject/APITicTacToe monday copy/APITicTacToe/obj/Debug/net6.0/ref/APITicTacToe.dll

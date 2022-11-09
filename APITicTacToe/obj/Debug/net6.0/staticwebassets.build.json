@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mEuIpM77WLhtv4ctZ5ntaOh+DZl+GEFtJB5GX+2m27I=",
+  "Source": "APITicTacToe",
+  "BasePath": "_content/APITicTacToe",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
